@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name:"Lucha Libre AAA" 
+https://stitcher.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=47ca7aaf-2e0a-e8c8-7383-hCCmFNuwkPRJ&deviceId=4M9c53OkgfBk&deviceVersion=75.0.3770.142&appVersion=2.7.3-f002a080d17a7061ac73ac2e68de5e8ca0660c96&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhjk-tdt.m3u8
+#EXTINF:-1 tvg-name:"Canal 5" https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
+#EXTINF:-1 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
+#EXTINF:-1 http://e10.telerium.uno:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgNDozNzoxNyBQTSZoYXNoX3ZhbHVlPUJhUnN2RE95UktNZXBhU1NCUWZhWWc9PSZ2YWxpZG1pbnV0ZXM9MjQw
